@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RF22", "SerialRead\RF22.csproj", "{5DACE513-B23B-43AC-B936-7F5DB52F676F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DACE513-B23B-43AC-B936-7F5DB52F676F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DACE513-B23B-43AC-B936-7F5DB52F676F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DACE513-B23B-43AC-B936-7F5DB52F676F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DACE513-B23B-43AC-B936-7F5DB52F676F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2162AF37-E2E3-4279-B55D-32F1A8D76155}
+	EndGlobalSection
+EndGlobal

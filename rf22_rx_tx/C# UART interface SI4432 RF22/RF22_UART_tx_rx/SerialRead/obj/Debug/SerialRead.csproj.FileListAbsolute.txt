@@ -1,0 +1,8 @@
+C:\Users\usr1\Desktop\code\C#\SerialRead\SerialRead\obj\Debug\SerialRead.csproj.AssemblyReference.cache
+C:\Users\usr1\Desktop\code\C#\SerialRead\SerialRead\obj\Debug\SerialRead.csproj.SuggestedBindingRedirects.cache
+C:\Users\usr1\Desktop\code\C#\SerialRead\SerialRead\obj\Debug\SerialRead.csproj.CoreCompileInputs.cache
+C:\Users\usr1\Desktop\code\C#\SerialRead\SerialRead\bin\Debug\RF22_test_tx_rx.exe.config
+C:\Users\usr1\Desktop\code\C#\SerialRead\SerialRead\bin\Debug\RF22_test_tx_rx.exe
+C:\Users\usr1\Desktop\code\C#\SerialRead\SerialRead\bin\Debug\RF22_test_tx_rx.pdb
+C:\Users\usr1\Desktop\code\C#\SerialRead\SerialRead\obj\Debug\RF22_test_tx_rx.exe
+C:\Users\usr1\Desktop\code\C#\SerialRead\SerialRead\obj\Debug\RF22_test_tx_rx.pdb
