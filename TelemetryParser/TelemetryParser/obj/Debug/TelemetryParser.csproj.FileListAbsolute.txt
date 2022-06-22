@@ -1,0 +1,8 @@
+C:\Users\usr1\Desktop\code\C#\TelemetryParser\TelemetryParser\bin\Debug\TelemetryParser.exe.config
+C:\Users\usr1\Desktop\code\C#\TelemetryParser\TelemetryParser\bin\Debug\TelemetryParser.exe
+C:\Users\usr1\Desktop\code\C#\TelemetryParser\TelemetryParser\bin\Debug\TelemetryParser.pdb
+C:\Users\usr1\Desktop\code\C#\TelemetryParser\TelemetryParser\obj\Debug\TelemetryParser.csproj.AssemblyReference.cache
+C:\Users\usr1\Desktop\code\C#\TelemetryParser\TelemetryParser\obj\Debug\TelemetryParser.csproj.SuggestedBindingRedirects.cache
+C:\Users\usr1\Desktop\code\C#\TelemetryParser\TelemetryParser\obj\Debug\TelemetryParser.csproj.CoreCompileInputs.cache
+C:\Users\usr1\Desktop\code\C#\TelemetryParser\TelemetryParser\obj\Debug\TelemetryParser.exe
+C:\Users\usr1\Desktop\code\C#\TelemetryParser\TelemetryParser\obj\Debug\TelemetryParser.pdb
