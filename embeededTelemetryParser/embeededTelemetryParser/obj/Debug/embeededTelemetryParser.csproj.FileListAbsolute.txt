@@ -1,8 +1,0 @@
-C:\Users\usr1\Desktop\buildTelemeryParser\embeededTelemetryParser\embeededTelemetryParser\bin\Debug\embeededTelemetryParser.exe.config
-C:\Users\usr1\Desktop\buildTelemeryParser\embeededTelemetryParser\embeededTelemetryParser\bin\Debug\embeededTelemetryParser.exe
-C:\Users\usr1\Desktop\buildTelemeryParser\embeededTelemetryParser\embeededTelemetryParser\bin\Debug\embeededTelemetryParser.pdb
-C:\Users\usr1\Desktop\buildTelemeryParser\embeededTelemetryParser\embeededTelemetryParser\obj\Debug\embeededTelemetryParser.csproj.AssemblyReference.cache
-C:\Users\usr1\Desktop\buildTelemeryParser\embeededTelemetryParser\embeededTelemetryParser\obj\Debug\embeededTelemetryParser.csproj.SuggestedBindingRedirects.cache
-C:\Users\usr1\Desktop\buildTelemeryParser\embeededTelemetryParser\embeededTelemetryParser\obj\Debug\embeededTelemetryParser.csproj.CoreCompileInputs.cache
-C:\Users\usr1\Desktop\buildTelemeryParser\embeededTelemetryParser\embeededTelemetryParser\obj\Debug\embeededTelemetryParser.exe
-C:\Users\usr1\Desktop\buildTelemeryParser\embeededTelemetryParser\embeededTelemetryParser\obj\Debug\embeededTelemetryParser.pdb
