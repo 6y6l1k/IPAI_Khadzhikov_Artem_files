@@ -1,0 +1,15 @@
+C:\Users\usr1\Desktop\video_2\videoSystem\test_rx\bin\Debug\test_rx.exe.config
+C:\Users\usr1\Desktop\video_2\videoSystem\test_rx\bin\Debug\test_rx.exe
+C:\Users\usr1\Desktop\video_2\videoSystem\test_rx\bin\Debug\test_rx.pdb
+C:\Users\usr1\Desktop\video_2\videoSystem\test_rx\bin\Debug\AForge.dll
+C:\Users\usr1\Desktop\video_2\videoSystem\test_rx\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\usr1\Desktop\video_2\videoSystem\test_rx\bin\Debug\AForge.Video.dll
+C:\Users\usr1\Desktop\video_2\videoSystem\test_rx\bin\Debug\AForge.xml
+C:\Users\usr1\Desktop\video_2\videoSystem\test_rx\bin\Debug\AForge.Video.xml
+C:\Users\usr1\Desktop\video_2\videoSystem\test_rx\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\usr1\Desktop\video_2\videoSystem\test_rx\obj\Debug\test_rx.csproj.AssemblyReference.cache
+C:\Users\usr1\Desktop\video_2\videoSystem\test_rx\obj\Debug\test_rx.csproj.SuggestedBindingRedirects.cache
+C:\Users\usr1\Desktop\video_2\videoSystem\test_rx\obj\Debug\test_rx.csproj.CoreCompileInputs.cache
+C:\Users\usr1\Desktop\video_2\videoSystem\test_rx\obj\Debug\test_rx.csproj.CopyComplete
+C:\Users\usr1\Desktop\video_2\videoSystem\test_rx\obj\Debug\test_rx.exe
+C:\Users\usr1\Desktop\video_2\videoSystem\test_rx\obj\Debug\test_rx.pdb

@@ -1,0 +1,11 @@
+C:\Users\usr1\Desktop\video_2\videoSystem\rx\bin\Debug\rx.exe.config
+C:\Users\usr1\Desktop\video_2\videoSystem\rx\bin\Debug\rx.exe
+C:\Users\usr1\Desktop\video_2\videoSystem\rx\bin\Debug\rx.pdb
+C:\Users\usr1\Desktop\video_2\videoSystem\rx\obj\Debug\rx.csproj.AssemblyReference.cache
+C:\Users\usr1\Desktop\video_2\videoSystem\rx\obj\Debug\rx.csproj.SuggestedBindingRedirects.cache
+C:\Users\usr1\Desktop\video_2\videoSystem\rx\obj\Debug\rx.Form1.resources
+C:\Users\usr1\Desktop\video_2\videoSystem\rx\obj\Debug\rx.Properties.Resources.resources
+C:\Users\usr1\Desktop\video_2\videoSystem\rx\obj\Debug\rx.csproj.GenerateResource.cache
+C:\Users\usr1\Desktop\video_2\videoSystem\rx\obj\Debug\rx.csproj.CoreCompileInputs.cache
+C:\Users\usr1\Desktop\video_2\videoSystem\rx\obj\Debug\rx.exe
+C:\Users\usr1\Desktop\video_2\videoSystem\rx\obj\Debug\rx.pdb
